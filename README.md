@@ -1,7 +1,7 @@
 # CODSOFT_UI-UX
 # CodSoft UI/UX Internship - Task 1
 
-## Mobile App Sign-Up Flow (Figma Prototype)
+## RESTUARANT MENU(Figma Prototype)
 
 **Figma Link:** [Click to View Prototype](https://www.figma.com/design/XSOfFRyDBTqsiKc0qo2PsD/Untitled?node-id=0-1&t=HqyhRb0nnyX5ZIRM-1)
 
